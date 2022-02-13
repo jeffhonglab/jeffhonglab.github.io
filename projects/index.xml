@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Jeff Hong&#39;s Research Group</title>
+    <link>https://jeffhonglab.github.io/projects/</link>
+      <atom:link href="https://jeffhonglab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Thu, 01 Jan 1970 08:33:35 +0800</lastBuildDate>
+    <image>
+      <url>https://jeffhonglab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://jeffhonglab.github.io/projects/</link>
+    </image>
+    
+    <item>
+      <title>Simulation Optimization</title>
+      <link>https://jeffhonglab.github.io/projects/simulation-optimization/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:35 +0800</pubDate>
+      <guid>https://jeffhonglab.github.io/projects/simulation-optimization/</guid>
+      <description>&lt;DIV align=&#34;justify&#34;&gt;
+Simulation optimization (SO), almost called optimization via simulation, is one of the most important and fast developing areas in stochastic simulation, because simulation models are often built with the goal of optimization. Generally, SO problems may be formulated as follows:
+\[
+\min_{\mathbf{x}\in\Theta}\ \mathbf{E}[G(\mathbf{x},\omega)],
+\]
+where $\mathbf{x}$ denotes the decision variables, $\omega$ denotes the randomness in simulation and the expectation is taken with respect to the distribution of $\omega$. We typically assume that $G(\cdot,\cdot)$ has no closed-form expression, but it is the output of a stochastic simulation model, and it can be observed by running simulation experiments at $\mathbf{x}$. The feasible region $\Theta$ may take different forms, resulting in different types of SO problems, e.g., continuous SO, discrete SO, stochastically constrained SO etc.
+&lt;p&gt;My co-authors and I have developed a number of algorithms in this area, including discrete SO algorithms such as COMPASS, AHA and GPS, and continuous SO algorithms such as STRONG. Here is the list of publications and preprints that we have in this area, including a recent review paper on surrogate-based simulation optimization. We are currently working on developing software packages and hope to have them online soon.&lt;/p&gt;
+&lt;p&gt;Recently, my group’s research interest in SO focuses on developing algorithms that can take advantage of modern computing tools such as parallel computing and tensorization to solve high-dimensional SO problems, and on understanding how dimensionality affects the convergence of SO algorithms.&lt;/p&gt;
+&lt;/DIV&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ranking and Selection</title>
+      <link>https://jeffhonglab.github.io/projects/ranking-and-selection/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:35 +0800</pubDate>
+      <guid>https://jeffhonglab.github.io/projects/ranking-and-selection/</guid>
+      <description>&lt;DIV align=&#34;justify&#34;&gt;
+&lt;p&gt;Ranking and selection (R&amp;amp;S) often refers to the problem of selecting the best among a group of alternatives, where the best is often (but not always) defined based on the mean performances. The problem has its root in statistics, but it becomes very important in the field of stochastic simulation, as simulation models are often used to compare different scenarios and select the best. The problem is also closely related to the best arm identification problem in machine learning. Here is a recent review written by us on the topic.&lt;/p&gt;
+&lt;p&gt;My co-authors and I have studied a number of different R&amp;amp;S problems. In particular, we were pioneers in studying parallel R&amp;amp;S, indifference-zone-free R&amp;amp;S, robust R&amp;amp;S and R&amp;amp;S with covariates. Here is the list of publications and preprints that we have in this area. We are currently working on developing software packages and hope to have them online soon.&lt;/p&gt;
+&lt;p&gt;Recently, my group’s research interest in R&amp;amp;S focuses on developing R&amp;amp;S algorithms that are capable of solving large-scale R&amp;amp;S problems. We look at both the theoretical side and computational side of the problem, and try to integrate them together to develop efficient algorithms.&lt;/p&gt;
+&lt;/DIV&gt;</description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo Methods in Stochastic Programming</title>
+      <link>https://jeffhonglab.github.io/projects/monte-carlo-methods-in-stochastic-programming/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:35 +0800</pubDate>
+      <guid>https://jeffhonglab.github.io/projects/monte-carlo-methods-in-stochastic-programming/</guid>
+      <description>&lt;DIV align=&#34;justify&#34;&gt;
+&lt;p&gt;Many stochastic programming problems involve complicated performance measures, such as probability, quantile and other risk measures, of random functions that generally have no closed-form expressions. Monte Carlo methods are often used to evaluate these performance measures and to optimize the stochastic programs.&lt;/p&gt;
+&lt;p&gt;My work in this area focuses on non-convex stochastic programs, such as chance-constrained programs, and developed sample-based (or data-based) convex approximation algorithms to solve them. I have also worked on robust simulation problems that may be formulated into stochastic programs.&lt;/p&gt;
+&lt;/DIV&gt;</description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo Methods in Financial Engineering</title>
+      <link>https://jeffhonglab.github.io/projects/monte-carlo-methods-in-financial-engineering/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:35 +0800</pubDate>
+      <guid>https://jeffhonglab.github.io/projects/monte-carlo-methods-in-financial-engineering/</guid>
+      <description>&lt;DIV align=&#34;justify&#34;&gt;
+&lt;p&gt;Many financial engineering problems involve estimation, sensitivity analysis and optimization of expectations (or other summary statistics) of a complicated stochastic process. They are natural for stochastic simulation to solve. My group’s work in this area primarily focused on two problems, i.e., risk measurement and sensitivity analysis. Here is the list of publications that we have in this area, including a review paper on Monte Carlo methods for value-at-risks and conditional value-at-risks.&lt;/p&gt;
+&lt;p&gt;We are currently working on the estimation and sensitivity analysis of systemic risk measures, such as CoVaR and MES. We are also interested in bringing deep learning tools into the field of financial engineering. The following are some examples of our current work in this area.&lt;/p&gt;
+&lt;/DIV&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emerging Areas in Stochastic Simulation</title>
+      <link>https://jeffhonglab.github.io/projects/emerging-areas-in-stochastic-simulation/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:35 +0800</pubDate>
+      <guid>https://jeffhonglab.github.io/projects/emerging-areas-in-stochastic-simulation/</guid>
+      <description>&lt;DIV align=&#34;justify&#34;&gt;
+&lt;p&gt;The landscape of stochastic simulation research is constantly changing, due to either new problems or new tools. In recent years, the fast development of machine learning, artificial intelligence and computing brought new opportunities to traditional research areas of stochastic simulation, allowing simulation to solve larger-scale and higher-dimensional problems faster, and allowing simulation to transform from an offline tool to an online tool.&lt;/p&gt;
+&lt;p&gt;Our research in these emerging areas significantly overlaps with and strongly enhances our research in simulation optimization, ranking and selection and financial engineering. We have proposed the offline simulation for online application (OSOA) framework (the paper) and, in recent years, focused on real-time or personalized decision makings using simulation. Here is the list of publications and preprints that we have in this area.&lt;/p&gt;
+&lt;/DIV&gt;</description>
+    </item>
+    
+    <item>
+      <title>Operations Analytics</title>
+      <link>https://jeffhonglab.github.io/projects/operations-analytics/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:35 +0800</pubDate>
+      <guid>https://jeffhonglab.github.io/projects/operations-analytics/</guid>
+      <description>&lt;DIV align=&#34;justify&#34;&gt;
+&lt;p&gt;I am also interested in using analytical tools to solve operations problems from production, logistics, supply chain management, service operations and healthcare operations etc. My research in this area typically uses stochastic models and statistics to obtain interesting managerial insights or to solve complicated decision-making problems. Here is a list of publications and preprints that I have in this area.&lt;/p&gt;
+&lt;p&gt;Recently, my group’s research interests in this area include both data-driven/empirical works with applications to service operations, healthcare operations as well as revenue management.&lt;/p&gt;
+&lt;/DIV&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

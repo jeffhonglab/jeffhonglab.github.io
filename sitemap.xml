@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jeffhonglab.github.io/topics/simulation-optimization/</loc>
+    <loc>https://jeffhonglab.github.io/project/simulation-optimization/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeffhonglab.github.io/project/ranking-and-selection/</loc>
     <lastmod>1970-01-01T08:33:35+08:00</lastmod>
   </url><url>
-    <loc>https://jeffhonglab.github.io/topics/ranking-and-selection/</loc>
-    <lastmod>1970-01-01T08:33:35+08:00</lastmod>
+    <loc>https://jeffhonglab.github.io/project/monte-carlo-methods-in-stochastic-programming/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jeffhonglab.github.io/topics/monte-carlo-methods-in-stochastic-programming/</loc>
-    <lastmod>1970-01-01T08:33:35+08:00</lastmod>
+    <loc>https://jeffhonglab.github.io/project/monte-carlo-methods-in-financial-engineering/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jeffhonglab.github.io/topics/monte-carlo-methods-in-financial-engineering/</loc>
-    <lastmod>1970-01-01T08:33:35+08:00</lastmod>
+    <loc>https://jeffhonglab.github.io/project/emerging-areas-in-stochastic-simulation/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jeffhonglab.github.io/topics/emerging-areas-in-stochastic-simulation/</loc>
-    <lastmod>1970-01-01T08:33:35+08:00</lastmod>
-  </url><url>
-    <loc>https://jeffhonglab.github.io/topics/operations-analytics/</loc>
-    <lastmod>1970-01-01T08:33:35+08:00</lastmod>
+    <loc>https://jeffhonglab.github.io/project/operations-analytics/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jeffhonglab.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
@@ -26,10 +26,34 @@
     <loc>https://jeffhonglab.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://jeffhonglab.github.io/group_event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jeffhonglab.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://jeffhonglab.github.io/event/example0/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeffhonglab.github.io/group_event/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeffhonglab.github.io/project/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeffhonglab.github.io/tag/research-topics/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeffhonglab.github.io/tags/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jeffhonglab.github.io/post/20-12-02-icml-best-paper/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeffhonglab.github.io/landing_post/20-12-02-icml-best-paper/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jeffhonglab.github.io/landing_post/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jeffhonglab.github.io/post/</loc>
@@ -56,8 +80,8 @@
     <loc>https://jeffhonglab.github.io/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jeffhonglab.github.io/tags/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>https://jeffhonglab.github.io/landing/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jeffhonglab.github.io/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
@@ -74,8 +98,8 @@
     <loc>https://jeffhonglab.github.io/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jeffhonglab.github.io/topics/</loc>
-    <lastmod>1970-01-01T08:33:35+08:00</lastmod>
+    <loc>https://jeffhonglab.github.io/author/li-zaile/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jeffhonglab.github.io/admin/</loc>
   </url><url>

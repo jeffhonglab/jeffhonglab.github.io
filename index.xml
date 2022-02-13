@@ -14,9 +14,9 @@
     
     <item>
       <title>Simulation Optimization</title>
-      <link>https://jeffhonglab.github.io/topics/simulation-optimization/</link>
-      <pubDate>Thu, 01 Jan 1970 08:33:35 +0800</pubDate>
-      <guid>https://jeffhonglab.github.io/topics/simulation-optimization/</guid>
+      <link>https://jeffhonglab.github.io/project/simulation-optimization/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/project/simulation-optimization/</guid>
       <description>&lt;DIV align=&#34;justify&#34;&gt;
 Simulation optimization (SO), almost called optimization via simulation, is one of the most important and fast developing areas in stochastic simulation, because simulation models are often built with the goal of optimization. Generally, SO problems may be formulated as follows:
 \[
@@ -30,9 +30,9 @@ where $\mathbf{x}$ denotes the decision variables, $\omega$ denotes the randomne
     
     <item>
       <title>Ranking and Selection</title>
-      <link>https://jeffhonglab.github.io/topics/ranking-and-selection/</link>
+      <link>https://jeffhonglab.github.io/project/ranking-and-selection/</link>
       <pubDate>Thu, 01 Jan 1970 08:33:35 +0800</pubDate>
-      <guid>https://jeffhonglab.github.io/topics/ranking-and-selection/</guid>
+      <guid>https://jeffhonglab.github.io/project/ranking-and-selection/</guid>
       <description>&lt;DIV align=&#34;justify&#34;&gt;
 &lt;p&gt;Ranking and selection (R&amp;amp;S) often refers to the problem of selecting the best among a group of alternatives, where the best is often (but not always) defined based on the mean performances. The problem has its root in statistics, but it becomes very important in the field of stochastic simulation, as simulation models are often used to compare different scenarios and select the best. The problem is also closely related to the best arm identification problem in machine learning. Here is a recent review written by us on the topic.&lt;/p&gt;
 &lt;p&gt;My co-authors and I have studied a number of different R&amp;amp;S problems. In particular, we were pioneers in studying parallel R&amp;amp;S, indifference-zone-free R&amp;amp;S, robust R&amp;amp;S and R&amp;amp;S with covariates. Here is the list of publications and preprints that we have in this area. We are currently working on developing software packages and hope to have them online soon.&lt;/p&gt;
@@ -42,9 +42,9 @@ where $\mathbf{x}$ denotes the decision variables, $\omega$ denotes the randomne
     
     <item>
       <title>Monte Carlo Methods in Stochastic Programming</title>
-      <link>https://jeffhonglab.github.io/topics/monte-carlo-methods-in-stochastic-programming/</link>
-      <pubDate>Thu, 01 Jan 1970 08:33:35 +0800</pubDate>
-      <guid>https://jeffhonglab.github.io/topics/monte-carlo-methods-in-stochastic-programming/</guid>
+      <link>https://jeffhonglab.github.io/project/monte-carlo-methods-in-stochastic-programming/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/project/monte-carlo-methods-in-stochastic-programming/</guid>
       <description>&lt;DIV align=&#34;justify&#34;&gt;
 &lt;p&gt;Many stochastic programming problems involve complicated performance measures, such as probability, quantile and other risk measures, of random functions that generally have no closed-form expressions. Monte Carlo methods are often used to evaluate these performance measures and to optimize the stochastic programs.&lt;/p&gt;
 &lt;p&gt;My work in this area focuses on non-convex stochastic programs, such as chance-constrained programs, and developed sample-based (or data-based) convex approximation algorithms to solve them. I have also worked on robust simulation problems that may be formulated into stochastic programs.&lt;/p&gt;
@@ -53,9 +53,9 @@ where $\mathbf{x}$ denotes the decision variables, $\omega$ denotes the randomne
     
     <item>
       <title>Monte Carlo Methods in Financial Engineering</title>
-      <link>https://jeffhonglab.github.io/topics/monte-carlo-methods-in-financial-engineering/</link>
-      <pubDate>Thu, 01 Jan 1970 08:33:35 +0800</pubDate>
-      <guid>https://jeffhonglab.github.io/topics/monte-carlo-methods-in-financial-engineering/</guid>
+      <link>https://jeffhonglab.github.io/project/monte-carlo-methods-in-financial-engineering/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/project/monte-carlo-methods-in-financial-engineering/</guid>
       <description>&lt;DIV align=&#34;justify&#34;&gt;
 &lt;p&gt;Many financial engineering problems involve estimation, sensitivity analysis and optimization of expectations (or other summary statistics) of a complicated stochastic process. They are natural for stochastic simulation to solve. My group’s work in this area primarily focused on two problems, i.e., risk measurement and sensitivity analysis. Here is the list of publications that we have in this area, including a review paper on Monte Carlo methods for value-at-risks and conditional value-at-risks.&lt;/p&gt;
 &lt;p&gt;We are currently working on the estimation and sensitivity analysis of systemic risk measures, such as CoVaR and MES. We are also interested in bringing deep learning tools into the field of financial engineering. The following are some examples of our current work in this area.&lt;/p&gt;
@@ -64,9 +64,9 @@ where $\mathbf{x}$ denotes the decision variables, $\omega$ denotes the randomne
     
     <item>
       <title>Emerging Areas in Stochastic Simulation</title>
-      <link>https://jeffhonglab.github.io/topics/emerging-areas-in-stochastic-simulation/</link>
-      <pubDate>Thu, 01 Jan 1970 08:33:35 +0800</pubDate>
-      <guid>https://jeffhonglab.github.io/topics/emerging-areas-in-stochastic-simulation/</guid>
+      <link>https://jeffhonglab.github.io/project/emerging-areas-in-stochastic-simulation/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/project/emerging-areas-in-stochastic-simulation/</guid>
       <description>&lt;DIV align=&#34;justify&#34;&gt;
 &lt;p&gt;The landscape of stochastic simulation research is constantly changing, due to either new problems or new tools. In recent years, the fast development of machine learning, artificial intelligence and computing brought new opportunities to traditional research areas of stochastic simulation, allowing simulation to solve larger-scale and higher-dimensional problems faster, and allowing simulation to transform from an offline tool to an online tool.&lt;/p&gt;
 &lt;p&gt;Our research in these emerging areas significantly overlaps with and strongly enhances our research in simulation optimization, ranking and selection and financial engineering. We have proposed the offline simulation for online application (OSOA) framework (the paper) and, in recent years, focused on real-time or personalized decision makings using simulation. Here is the list of publications and preprints that we have in this area.&lt;/p&gt;
@@ -75,9 +75,9 @@ where $\mathbf{x}$ denotes the decision variables, $\omega$ denotes the randomne
     
     <item>
       <title>Operations Analytics</title>
-      <link>https://jeffhonglab.github.io/topics/operations-analytics/</link>
-      <pubDate>Thu, 01 Jan 1970 08:33:35 +0800</pubDate>
-      <guid>https://jeffhonglab.github.io/topics/operations-analytics/</guid>
+      <link>https://jeffhonglab.github.io/project/operations-analytics/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/project/operations-analytics/</guid>
       <description>&lt;DIV align=&#34;justify&#34;&gt;
 &lt;p&gt;I am also interested in using analytical tools to solve operations problems from production, logistics, supply chain management, service operations and healthcare operations etc. My research in this area typically uses stochastic models and statistics to obtain interesting managerial insights or to solve complicated decision-making problems. Here is a list of publications and preprints that I have in this area.&lt;/p&gt;
 &lt;p&gt;Recently, my group’s research interests in this area include both data-driven/empirical works with applications to service operations, healthcare operations as well as revenue management.&lt;/p&gt;
@@ -89,6 +89,42 @@ where $\mathbf{x}$ denotes the decision variables, $\omega$ denotes the randomne
       <link>https://jeffhonglab.github.io/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/event/example/</guid>
+      <description>&lt;DIV align=&#34;justify&#34;&gt;
+&lt;p&gt;Abstract: &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+&lt;/DIV&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Event</title>
+      <link>https://jeffhonglab.github.io/event/example0/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/event/example0/</guid>
+      <description>&lt;DIV align=&#34;justify&#34;&gt;
+&lt;p&gt;Abstract: &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+&lt;/DIV&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Event</title>
+      <link>https://jeffhonglab.github.io/group_event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/group_event/example/</guid>
       <description>&lt;DIV align=&#34;justify&#34;&gt;
 &lt;p&gt;Abstract: &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
@@ -116,12 +152,34 @@ where $\mathbf{x}$ denotes the decision variables, $\omega$ denotes the randomne
     </item>
     
     <item>
+      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020asdad</title>
+      <link>https://jeffhonglab.github.io/landing_post/20-12-02-icml-best-paper/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/landing_post/20-12-02-icml-best-paper/</guid>
+      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
+&lt;!DIV align=&#34;justify&#34;&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
+&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
+&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;
+&lt;/DIV&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
       <link>https://jeffhonglab.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/publication/preprint/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Landing Page</title>
+      <link>https://jeffhonglab.github.io/landing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/landing/</guid>
+      <description></description>
     </item>
     
     <item>
