@@ -59,6 +59,9 @@
 
   
   
+    
+    <script src="/js/mathjax-config.js"></script>
+  
 
   
   
@@ -199,9 +202,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -712,9 +715,13 @@
 
     <div class="article-style">
       <DIV align="justify">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-<p>Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.</p>
-<p>Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.</p>
+Simulation optimization (SO), almost called optimization via simulation, is one of the most important and fast developing areas in stochastic simulation, because simulation models are often built with the goal of optimization. Generally, SO problems may be formulated as follows:
+\[
+\min_{\mathbf{x}\in\Theta}\ \mathbf{E}[G(\mathbf{x},\omega)],
+\]
+where $\mathbf{x}$ denotes the decision variables, $\omega$ denotes the randomness in simulation and the expectation is taken with respect to the distribution of $\omega$. We typically assume that $G(\cdot,\cdot)$ has no closed-form expression, but it is the output of a stochastic simulation model, and it can be observed by running simulation experiments at $\mathbf{x}$. The feasible region $\Theta$ may take different forms, resulting in different types of SO problems, e.g., continuous SO, discrete SO, stochastically constrained SO etc.
+<p>My co-authors and I have developed a number of algorithms in this area, including discrete SO algorithms such as COMPASS, AHA and GPS, and continuous SO algorithms such as STRONG. Here is the list of publications and preprints that we have in this area, including a recent review paper on surrogate-based simulation optimization. We are currently working on developing software packages and hope to have them online soon.</p>
+<p>Recently, my group’s research interest in SO focuses on developing algorithms that can take advantage of modern computing tools such as parallel computing and tensorization to solve high-dimensional SO problems, and on understanding how dimensionality affects the convergence of SO algorithms.</p>
 </DIV>
     </div>
 
