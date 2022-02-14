@@ -103,6 +103,38 @@ where $\mathbf{x}$ denotes the decision variables, $\omega$ denotes the randomne
     </item>
     
     <item>
+      <title>2021 Spring: Network Science</title>
+      <link>https://jeffhonglab.github.io/landing_reading_group/2021-reading-group/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/landing_reading_group/2021-reading-group/</guid>
+      <description>&lt;!DIV align=&#34;justify&#34;&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;《网络科学导论》汪小帆、李翔、陈关荣&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《Network Science: An Introduction》by Wang Xiaofan, Li Xiang, Chen Guanrong (2012)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Slides:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeffhonglab.github.io/uploads/reading_network_science/chap2.pdf&#34;&gt;Chapter 2&lt;/a&gt;
+&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeffhonglab.github.io/uploads/reading_network_science/chap3.pdf&#34;&gt;Chapter 3&lt;/a&gt;
+&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeffhonglab.github.io/uploads/reading_network_science/chap4.pdf&#34;&gt;Chapter 4&lt;/a&gt;
+&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeffhonglab.github.io/uploads/reading_network_science/chap5.pdf&#34;&gt;Chapter 5&lt;/a&gt;
+&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeffhonglab.github.io/uploads/reading_network_science/chap6.pdf&#34;&gt;Chapter 6&lt;/a&gt;
+&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeffhonglab.github.io/uploads/reading_network_science/chap6.pdf&#34;&gt;Chapter 7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/DIV&gt;</description>
+    </item>
+    
+    <item>
       <title>An example conference paper</title>
       <link>https://jeffhonglab.github.io/publication/conference-paper/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
@@ -132,32 +164,6 @@ where $\mathbf{x}$ denotes the decision variables, $\omega$ denotes the randomne
 &lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
 &lt;/DIV&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>2021 Reading Group</title>
-      <link>https://jeffhonglab.github.io/landing_reading_group/2021-reading-group/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://jeffhonglab.github.io/landing_reading_group/2021-reading-group/</guid>
-      <description>&lt;p&gt;Network Science&lt;/p&gt;
-&lt;!DIV align=&#34;justify&#34;&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;
-&lt;/DIV&gt;</description>
-    </item>
-    
-    <item>
-      <title>2022 Reading Group</title>
-      <link>https://jeffhonglab.github.io/landing_reading_group/2022-reading-group/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://jeffhonglab.github.io/landing_reading_group/2022-reading-group/</guid>
-      <description>&lt;p&gt;Reinforcement Learning&lt;/p&gt;
-&lt;!DIV align=&#34;justify&#34;&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;
-&lt;/DIV&gt;</description>
     </item>
     
     <item>
