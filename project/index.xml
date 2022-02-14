@@ -31,7 +31,7 @@ where $\mathbf{x}$ denotes the decision variables, $\omega$ denotes the randomne
     <item>
       <title>Ranking and Selection</title>
       <link>https://jeffhonglab.github.io/project/ranking-and-selection/</link>
-      <pubDate>Thu, 01 Jan 1970 08:33:35 +0800</pubDate>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/project/ranking-and-selection/</guid>
       <description>&lt;DIV align=&#34;justify&#34;&gt;
 &lt;p&gt;Ranking and selection (R&amp;amp;S) often refers to the problem of selecting the best among a group of alternatives, where the best is often (but not always) defined based on the mean performances. The problem has its root in statistics, but it becomes very important in the field of stochastic simulation, as simulation models are often used to compare different scenarios and select the best. The problem is also closely related to the best arm identification problem in machine learning. Here is a recent review written by us on the topic.&lt;/p&gt;
