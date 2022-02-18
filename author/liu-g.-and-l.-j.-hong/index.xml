@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liu, G. and L. J. Hong | Jeff Hong&#39;s Research Group</title>
+    <link>https://jeffhonglab.github.io/author/liu-g.-and-l.-j.-hong/</link>
+      <atom:link href="https://jeffhonglab.github.io/author/liu-g.-and-l.-j.-hong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liu, G. and L. J. Hong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jeffhonglab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Liu, G. and L. J. Hong</title>
+      <link>https://jeffhonglab.github.io/author/liu-g.-and-l.-j.-hong/</link>
+    </image>
+    
+    <item>
+      <title>Revisit of stochastic mesh method for pricing American options</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2008_liuhongwsc/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2008_liuhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel estimation of quantile sensitivity</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2007_liuhongwsc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2007_liuhongwsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News[or possible Articles] | Jeff Hong&#39;s Research Group</title>
+    <title>Latest News | Jeff Hong&#39;s Research Group</title>
     <link>https://jeffhonglab.github.io/post/</link>
       <atom:link href="https://jeffhonglab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Latest News[or possible Articles]</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeffhonglab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Latest News[or possible Articles]</title>
+      <title>Latest News</title>
       <link>https://jeffhonglab.github.io/post/</link>
     </image>
     
     <item>
-      <title>example: XXX Win the Best Paper Award at INFORMS WSC</title>
+      <title>TBD</title>
       <link>https://jeffhonglab.github.io/post/20-12-02-icml-best-paper/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/post/20-12-02-icml-best-paper/</guid>
-      <description>&lt;p&gt;This is an example of posting news or articles&lt;/p&gt;
+      <description>&lt;p&gt;TBD&lt;/p&gt;
 &lt;!DIV align=&#34;justify&#34;&gt;
-&lt;p&gt;example&lt;/p&gt;
 &lt;/DIV&gt;
 </description>
     </item>

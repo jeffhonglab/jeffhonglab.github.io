@@ -5,7 +5,7 @@
     <link>https://jeffhonglab.github.io/publication-type/1/</link>
       <atom:link href="https://jeffhonglab.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Fri, 21 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeffhonglab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,17 +13,267 @@
     </image>
     
     <item>
-      <title>并行计算环境下的大规模排序择优算法设计</title>
-      <link>https://jeffhonglab.github.io/publication/conference-paper/</link>
-      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://jeffhonglab.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>Option Pricing By Neural Stochastic Differential Equations: A Simulation-optimization Approach</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2021_wanghongwsc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2021_wanghongwsc/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A novel learning framework for sampling-based motion planning in autonomous driving</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2020_zhangzhangzhangwangluhongaaai/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2020_zhangzhangzhangwangluhongaaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Artificial Neural Networks by Generalized Likelihood Ratio Method: An Effective Way to Improve Robustness</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2020_xiaopenghongcase/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2020_xiaopenghongcase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating sensitivity to input model variance</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2019_jiangnelsonhongwsc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2019_jiangnelsonhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully sequential ranking-and-selection procedures with PAC guarantee</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2018_zhonghongwsc/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2018_zhonghongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Mixture Model-based Random Search for Continuous Optimization via Simulation</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2018_sunhuhongwsc/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2018_sunhuhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new framework of designing sequential ranking-and-selection procedures</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2017_zhonghongwsc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2017_zhonghongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and selection with covariates</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2017_shenhongzhangwsc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2017_shenhongzhangwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simulation analytics approach to dynamic risk monitoring</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2016_jianghongnelsonwsc/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2016_jianghongnelsonwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximating data-driven joint chance constrained programs via uncertainty set construction</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2016_honghuanglamwsc/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2016_honghuanglamwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding up pairwise comparisons for large scale ranking and selection</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2016_hongluozhongwsc/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2016_hongluozhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A statistical perspective on linear programs with uncertain parameters</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2015_honglamwsc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2015_honglamwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Input uncertainty and indifference-zone ranking and selection</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2015_songnelsonhongwsc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2015_songnelsonhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust simulation of stochastic systems with input uncertainties modeled by statistical divergences</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2015_huhongwsc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2015_huhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A frequentist selection-of-the-best procedure without indifference zone</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2014_fanhongwsc/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2014_fanhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling and modeling of call center arrivals</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2014_zhanghongzhangwsc/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2014_zhanghongzhangwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking estimation and performance evaluation through simulation</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2013_fanghongwsc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2013_fanghongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust selection of the best</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2013_fanhongzhangwsc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2013_fanhongzhangwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale ranking and selection using cloud computing</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2011_luohongwsc/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2011_luohongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo estimation of value-at-risk, conditional value-at-risk and their sensitivities</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2011_hongliuwsc/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2011_hongliuwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization via simulation using Gaussian process-based search</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2011_sunhonghuwsc/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2011_sunhonghuwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust simulation of environmental policies</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2010_hucaohongwsc/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2010_hucaohongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A brief introduction to optimization via simulation</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2009_hongnelsonwsc/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2009_hongnelsonwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating expectations of nonlinear functions</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2009_hongjunejawsc/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2009_hongjunejawsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The asymptotic expansions of value-at-risk and conditional value-at-risk</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2009_sunhongwsc/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2009_sunhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisit of stochastic mesh method for pricing American options</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2008_liuhongwsc/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2008_liuhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel estimation of quantile sensitivity</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2007_liuhongwsc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2007_liuhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monte-Carlo method in financial engineering</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2007_chenhongwsc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2007_chenhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic trust region gradient-free method: A new response-surface-based algorithm for simulation optimization</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2007_changhongwsc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2007_changhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing capacity competition among the airports in the Pearl River Delta</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2006_wangtsangtsuiszehongleeaciie/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2006_wangtsangtsuiszehongleeaciie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete optimization via simulation using coordinate search</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2005_hongwsc/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2005_hongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Indifference-zone Selection Procedure With Minimum Switching and Sequential Sampling</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2003_hongnelsonwsc/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2003_hongnelsonwsc/</guid>
+      <description></description>
     </item>
     
   </channel>
