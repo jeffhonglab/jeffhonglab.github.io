@@ -5,12 +5,20 @@
     <link>https://jeffhonglab.github.io/author/hong-l.-j.-z.-huang-and-h.-lam/</link>
       <atom:link href="https://jeffhonglab.github.io/author/hong-l.-j.-z.-huang-and-h.-lam/index.xml" rel="self" type="application/rss+xml" />
     <description>Hong, L. J., Z. Huang, and H. Lam</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeffhonglab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Hong, L. J., Z. Huang, and H. Lam</title>
       <link>https://jeffhonglab.github.io/author/hong-l.-j.-z.-huang-and-h.-lam/</link>
     </image>
+    
+    <item>
+      <title>Learning-based robust optimization procedures and statistical guarantee</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2021_honghuanglamms/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2021_honghuanglamms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Approximating data-driven joint chance constrained programs via uncertainty set construction</title>

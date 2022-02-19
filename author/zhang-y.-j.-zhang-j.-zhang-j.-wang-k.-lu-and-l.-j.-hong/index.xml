@@ -5,12 +5,20 @@
     <link>https://jeffhonglab.github.io/author/zhang-y.-j.-zhang-j.-zhang-j.-wang-k.-lu-and-l.-j.-hong/</link>
       <atom:link href="https://jeffhonglab.github.io/author/zhang-y.-j.-zhang-j.-zhang-j.-wang-k.-lu-and-l.-j.-hong/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhang, Y., J. Zhang, J. Zhang, J. Wang, K. Lu and L. J. Hong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeffhonglab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Zhang, Y., J. Zhang, J. Zhang, J. Wang, K. Lu and L. J. Hong</title>
       <link>https://jeffhonglab.github.io/author/zhang-y.-j.-zhang-j.-zhang-j.-wang-k.-lu-and-l.-j.-hong/</link>
     </image>
+    
+    <item>
+      <title>Integrating Algorithmic Sampling-Based Motion Planning with Learning in Autonomous Driving</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_zhangzhangzhangwangluhongtist/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_zhangzhangzhangwangluhongtist/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A novel learning framework for sampling-based motion planning in autonomous driving</title>

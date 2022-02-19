@@ -5,12 +5,92 @@
     <link>https://jeffhonglab.github.io/publication/</link>
       <atom:link href="https://jeffhonglab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeffhonglab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://jeffhonglab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Dimension reduction in contextual online learning via nonparametric variable selection</title>
+      <link>https://jeffhonglab.github.io/publication/preprint/lasso/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/preprint/lasso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian process based search for continuous optimization via simulation</title>
+      <link>https://jeffhonglab.github.io/publication/preprint/gpsc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/preprint/gpsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Algorithmic Sampling-Based Motion Planning with Learning in Autonomous Driving</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_zhangzhangzhangwangluhongtist/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_zhangzhangzhangwangluhongtist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knockout-tournament procedures for large-scale ranking and selection in parallel computing environments</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_zhonghongor/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_zhonghongor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale inventory optimization: A recurrent-neural-networks-inspired simulation approach</title>
+      <link>https://jeffhonglab.github.io/publication/preprint/rnn/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/preprint/rnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meaningful sensitivities: A new family of simulation sensitivity measures</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_jiangnelsonhongiise/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_jiangnelsonhongiise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving large-scale fixed-budget ranking and selection problems</title>
+      <link>https://jeffhonglab.github.io/publication/preprint/fbkt/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/preprint/fbkt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variability scaling and capacity planning in Covid-19 pandemic</title>
+      <link>https://jeffhonglab.github.io/publication/preprint/scaling/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/preprint/scaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earning and learning with varying cost</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2021_zhonghongliupom/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2021_zhonghongliupom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-based robust optimization procedures and statistical guarantee</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2021_honghuanglamms/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2021_honghuanglamms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Option Pricing By Neural Stochastic Differential Equations: A Simulation-optimization Approach</title>
@@ -29,10 +109,58 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+      <title>Ranking and selection with covariates for personalized decision making</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2021_shenhongzhangijoc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2021_shenhongzhangijoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review on ranking and selection: A new perspective</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2021_hongfanluofem/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2021_hongfanluofem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrogate-based simulation optimization</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2021_hongzhangtutorials/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2021_hongzhangtutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A novel learning framework for sampling-based motion planning in autonomous driving</title>
       <link>https://jeffhonglab.github.io/publication/conference-papers/2020_zhangzhangzhangwangluhongaaai/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/publication/conference-papers/2020_zhangzhangzhangwangluhongaaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributionally robust selection of the best</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2020_fanhongzhangms/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2020_fanhongzhangms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online risk monitoring using offline simulation</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2020_jianghongnelsonjoc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2020_jianghongnelsonjoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical note: Finite‐time regret analysis of Kiefer‐Wolfowitz stochastic approximation algorithm and nonparametric multi‐product dynamic pricing with unknown demand</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2020_hongliluonrl/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2020_hongliluonrl/</guid>
       <description></description>
     </item>
     
@@ -45,19 +173,42 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
-      <title>Large-Scale Ranking and Selection in Parallel Computing Environments</title>
-      <link>https://jeffhonglab.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeffhonglab.github.io/publication/preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Estimating sensitivity to input model variance</title>
       <link>https://jeffhonglab.github.io/publication/conference-papers/2019_jiangnelsonhongwsc/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/publication/conference-papers/2019_jiangnelsonhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offline simulation online application: A new framework of simulation-based decision making</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2019_hongjiangapjor/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2019_hongjiangapjor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On gamma estimation via matrix kriging</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2019_yunhongjiangwangnrl/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2019_yunhongjiangwangnrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simulation-based estimation method for bias reduction</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2018_fanghongiise/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2018_fanghongiise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing stochastic kriging for queueing simulation with stylized models</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2018_shenhongzhangiise/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2018_shenhongzhangiise/</guid>
       <description></description>
     </item>
     
@@ -86,6 +237,22 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+      <title>Gradient and Hessian of joint probability functions with applications on chance constrained programs</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2017_hongjiangjorsoc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2017_hongjiangjorsoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel smoothing for nested estimation with application to portfolio risk measurement</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2017_hongjunejaliuor/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2017_hongjunejaliuor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ranking and selection with covariates</title>
       <link>https://jeffhonglab.github.io/publication/conference-papers/2017_shenhongzhangwsc/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -110,6 +277,14 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+      <title>Indifference-zone-free selection of the best</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2016_fanhongnelsonor/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2016_fanhongnelsonor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Speeding up pairwise comparisons for large scale ranking and selection</title>
       <link>https://jeffhonglab.github.io/publication/conference-papers/2016_hongluozhongwsc/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -118,24 +293,34 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://jeffhonglab.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://jeffhonglab.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A statistical perspective on linear programs with uncertain parameters</title>
       <link>https://jeffhonglab.github.io/publication/conference-papers/2015_honglamwsc/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/publication/conference-papers/2015_honglamwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capacity reservation for time-sensitive service providers: An application in seaport management</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2015_hongxuzhangejor/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2015_hongxuzhangejor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chance constrained selection of the best</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2015_hongluonelsonjoc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2015_hongluonelsonjoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully sequential procedures for large-scale ranking-and-selection problems in parallel computing environments</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2015_luohongnelsonwuor/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2015_luohongnelsonwuor/</guid>
       <description></description>
     </item>
     
@@ -164,10 +349,66 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+      <title>Balancing exploitation and exploration in discrete optimization via simulation through a Gaussian process-based search</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2014_sunhonghuor/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2014_sunhonghuor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional value-at-risk approximation to value-at-risk constrained programs: A remedy via Monte Carlo</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2014_honghuzhangjoc/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2014_honghuzhangjoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating sensitivities of portfolio credit risk using Monte Carlo</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2014_hongjunejaluojoc/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2014_hongjunejaluojoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo methods for value-at-risk and conditional value-at-risk: A review</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2014_honghuliutomacs/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2014_honghuliutomacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scaling and modeling of call center arrivals</title>
       <link>https://jeffhonglab.github.io/publication/conference-papers/2014_zhanghongzhangwsc/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/publication/conference-papers/2014_zhanghongzhangwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A smooth Monte Carlo approximation to joint chance-constrained programs</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2013_huhongzhangiie/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2013_huhongzhangiie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ambiguous  Probabilistic  Programs</title>
+      <link>https://jeffhonglab.github.io/publication/reports/huhongso2013_technicalreport/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/reports/huhongso2013_technicalreport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An adaptive hyperbox algorithm for high-dimensional discrete optimization via simulation problems</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2013_xunelsonhongjoc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2013_xunelsonhongjoc/</guid>
       <description></description>
     </item>
     
@@ -184,6 +425,46 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       <link>https://jeffhonglab.github.io/publication/conference-papers/2013_fanhongzhangwsc/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/publication/conference-papers/2013_fanhongzhangwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic trust-region response-surface method (STRONG) – A new response surface framework for simulation optimization</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2013_changhongwanjoc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2013_changhongwanjoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fighting strategies in a market with counterfeits</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2012_zhanghongzhangaor/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2012_zhanghongzhangaor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kullback-Leibler divergence constrained distributionally robust optimization</title>
+      <link>https://jeffhonglab.github.io/publication/reports/huhong2013_technicalreport/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/reports/huhong2013_technicalreport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust simulation of global warming policies using the DICE model</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2012_hucaohongms/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2012_hucaohongms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel estimation of the Greeks of financial options</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2011_liuhongor/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2011_liuhongor/</guid>
       <description></description>
     </item>
     
@@ -212,10 +493,50 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+      <title>Sequential convex approximations to joint chance constrained programs: A Monte Carlo approach</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2011_hongyangzhangor/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2011_hongyangzhangor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymptotic representations for importance-sampling estimators of value-at-risk and conditional value-at-risk</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2010_sunhongorl/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2010_sunhongorl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industrial Strength COMPASS: A comprehensive algorithm and software for optimization via simulation</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2010_xunelsonhongtomacs/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2010_xunelsonhongtomacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathwise estimation of probability sensitivities through terminating and steady-state simulations</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2010_hongliuor/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2010_hongliuor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Robust simulation of environmental policies</title>
       <link>https://jeffhonglab.github.io/publication/conference-papers/2010_hucaohongwsc/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/publication/conference-papers/2010_hucaohongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding up COMPASS for high-dimensional discrete optimization via simulation</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2010_hongnelsonxuorl/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2010_hongnelsonxuorl/</guid>
       <description></description>
     </item>
     
@@ -228,10 +549,50 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+      <title>Conditional Monte Carlo estimation of quantile sensitivities</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2009_fuhonghums/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2009_fuhonghums/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Estimating expectations of nonlinear functions</title>
       <link>https://jeffhonglab.github.io/publication/conference-papers/2009_hongjunejawsc/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/publication/conference-papers/2009_hongjunejawsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating quantile sensitivities</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2009_hongor/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2009_hongor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel estimation of quantile sensitivities</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2009_liuhongnrl/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2009_liuhongnrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisit of stochastic mesh method for pricing American options</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2009_liuhongorl/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2009_liuhongorl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating sensitivities of conditional value-at-risk</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2009_hongliums/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2009_hongliums/</guid>
       <description></description>
     </item>
     
@@ -252,6 +613,14 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+      <title>A framework of locally convergent random search algorithms for discrete optimization via simulation</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2007_hongnelsontomacs/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2007_hongnelsontomacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kernel estimation of quantile sensitivity</title>
       <link>https://jeffhonglab.github.io/publication/conference-papers/2007_liuhongwsc/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
@@ -268,10 +637,26 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+      <title>Selecting the best system when systems are revealed sequentially</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2007_hongnelsoniie/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2007_hongnelsoniie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stochastic trust region gradient-free method: A new response-surface-based algorithm for simulation optimization</title>
       <link>https://jeffhonglab.github.io/publication/conference-papers/2007_changhongwsc/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/publication/conference-papers/2007_changhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A sequential procedure for neighborhood selection-of-the-best in optimization via simulation</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2006_pichnelsonhongejor/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2006_pichnelsonhongejor/</guid>
       <description></description>
     </item>
     
@@ -284,6 +669,22 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+      <title>Discrete optimization via simulation using COMPASS</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2006_hongnelsonor/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2006_hongnelsonor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully sequential indifference-zone selection procedures with variance dependent sampling</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2006_hongnrl/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2006_hongnrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Discrete optimization via simulation using coordinate search</title>
       <link>https://jeffhonglab.github.io/publication/conference-papers/2005_hongwsc/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
@@ -292,10 +693,26 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+      <title>The tradeoff between sampling and switching: New sequential procedures for indifference-zone selection</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2005_hongnelsoniie/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2005_hongnelsoniie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An Indifference-zone Selection Procedure With Minimum Switching and Sequential Sampling</title>
       <link>https://jeffhonglab.github.io/publication/conference-papers/2003_hongnelsonwsc/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/publication/conference-papers/2003_hongnelsonwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust evaluation of flatness and straightness tolerance using simulated annealing</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2001_hongshultesanand/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2001_hongshultesanand/</guid>
       <description></description>
     </item>
     

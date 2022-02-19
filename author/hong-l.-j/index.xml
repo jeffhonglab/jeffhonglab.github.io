@@ -5,12 +5,28 @@
     <link>https://jeffhonglab.github.io/author/hong-l.-j/</link>
       <atom:link href="https://jeffhonglab.github.io/author/hong-l.-j/index.xml" rel="self" type="application/rss+xml" />
     <description>Hong, L. J</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeffhonglab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Hong, L. J</title>
       <link>https://jeffhonglab.github.io/author/hong-l.-j/</link>
     </image>
+    
+    <item>
+      <title>Estimating quantile sensitivities</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2009_hongor/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2009_hongor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully sequential indifference-zone selection procedures with variance dependent sampling</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2006_hongnrl/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2006_hongnrl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Discrete optimization via simulation using coordinate search</title>

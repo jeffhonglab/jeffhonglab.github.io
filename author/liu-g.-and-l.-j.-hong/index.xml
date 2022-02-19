@@ -5,12 +5,28 @@
     <link>https://jeffhonglab.github.io/author/liu-g.-and-l.-j.-hong/</link>
       <atom:link href="https://jeffhonglab.github.io/author/liu-g.-and-l.-j.-hong/index.xml" rel="self" type="application/rss+xml" />
     <description>Liu, G. and L. J. Hong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeffhonglab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Liu, G. and L. J. Hong</title>
       <link>https://jeffhonglab.github.io/author/liu-g.-and-l.-j.-hong/</link>
     </image>
+    
+    <item>
+      <title>Kernel estimation of the Greeks of financial options</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2011_liuhongor/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2011_liuhongor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisit of stochastic mesh method for pricing American options</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2009_liuhongorl/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2009_liuhongorl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Revisit of stochastic mesh method for pricing American options</title>

@@ -5,7 +5,7 @@
     <link>https://jeffhonglab.github.io/publication-type/3/</link>
       <atom:link href="https://jeffhonglab.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeffhonglab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
@@ -13,12 +13,43 @@
     </image>
     
     <item>
-      <title>Large-Scale Ranking and Selection in Parallel Computing Environments</title>
-      <link>https://jeffhonglab.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeffhonglab.github.io/publication/preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Dimension reduction in contextual online learning via nonparametric variable selection</title>
+      <link>https://jeffhonglab.github.io/publication/preprint/lasso/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/preprint/lasso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian process based search for continuous optimization via simulation</title>
+      <link>https://jeffhonglab.github.io/publication/preprint/gpsc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/preprint/gpsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale inventory optimization: A recurrent-neural-networks-inspired simulation approach</title>
+      <link>https://jeffhonglab.github.io/publication/preprint/rnn/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/preprint/rnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving large-scale fixed-budget ranking and selection problems</title>
+      <link>https://jeffhonglab.github.io/publication/preprint/fbkt/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/preprint/fbkt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variability scaling and capacity planning in Covid-19 pandemic</title>
+      <link>https://jeffhonglab.github.io/publication/preprint/scaling/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/preprint/scaling/</guid>
+      <description></description>
     </item>
     
   </channel>

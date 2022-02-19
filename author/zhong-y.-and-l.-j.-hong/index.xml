@@ -5,12 +5,20 @@
     <link>https://jeffhonglab.github.io/author/zhong-y.-and-l.-j.-hong/</link>
       <atom:link href="https://jeffhonglab.github.io/author/zhong-y.-and-l.-j.-hong/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhong, Y. and L. J. Hong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeffhonglab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Zhong, Y. and L. J. Hong</title>
       <link>https://jeffhonglab.github.io/author/zhong-y.-and-l.-j.-hong/</link>
     </image>
+    
+    <item>
+      <title>Knockout-tournament procedures for large-scale ranking and selection in parallel computing environments</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_zhonghongor/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_zhonghongor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fully sequential ranking-and-selection procedures with PAC guarantee</title>
