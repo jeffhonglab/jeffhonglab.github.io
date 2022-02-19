@@ -355,15 +355,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
-      <title>Estimating sensitivity to input model variance</title>
-      <link>https://jeffhonglab.github.io/publication/conference-papers/2019_jiangnelsonhongwsc/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeffhonglab.github.io/publication/conference-papers/2019_jiangnelsonhongwsc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Group Page</title>
+      <title>Current Group</title>
       <link>https://jeffhonglab.github.io/group/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/group/</guid>
@@ -371,10 +363,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
-      <title>Landing Page for Research Topics</title>
-      <link>https://jeffhonglab.github.io/landing_topics/</link>
+      <title>Estimating sensitivity to input model variance</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2019_jiangnelsonhongwsc/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jeffhonglab.github.io/landing_topics/</guid>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2019_jiangnelsonhongwsc/</guid>
       <description></description>
     </item>
     
@@ -391,6 +383,14 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       <link>https://jeffhonglab.github.io/publication/journal-article/2019_yunhongjiangwangnrl/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/publication/journal-article/2019_yunhongjiangwangnrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Topics</title>
+      <link>https://jeffhonglab.github.io/research_topics/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/research_topics/</guid>
       <description></description>
     </item>
     
@@ -931,7 +931,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
-      <title></title>
+      <title>People</title>
       <link>https://jeffhonglab.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/people/</guid>
