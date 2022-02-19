@@ -5,7 +5,7 @@
     <link>https://jeffhonglab.github.io/</link>
       <atom:link href="https://jeffhonglab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeff Hong&#39;s Research Group</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Sat, 19 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeffhonglab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Jeff Hong&#39;s Research Group</title>
@@ -85,6 +85,33 @@ where $\mathbf{x}$ denotes the decision variables, $\omega$ denotes the randomne
     </item>
     
     <item>
+      <title>2021 Fall: Simulation Optimization</title>
+      <link>https://jeffhonglab.github.io/group_reading_group/2021-fall/</link>
+      <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/group_reading_group/2021-fall/</guid>
+      <description>&lt;!DIV align=&#34;justify&#34;&gt;
+&lt;p&gt;Reading Paper List:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeffhonglab.github.io/uploads/reading_network_science/chap2.pdf&#34;&gt;Chapter 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Slides:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeffhonglab.github.io/uploads/reading_network_science/chap2.pdf&#34;&gt;Chapter 2&lt;/a&gt;
+&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeffhonglab.github.io/uploads/reading_network_science/chap3.pdf&#34;&gt;Chapter 3&lt;/a&gt;
+&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeffhonglab.github.io/uploads/reading_network_science/chap4.pdf&#34;&gt;Chapter 4&lt;/a&gt;
+&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeffhonglab.github.io/uploads/reading_network_science/chap5.pdf&#34;&gt;Chapter 5&lt;/a&gt;
+&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeffhonglab.github.io/uploads/reading_network_science/chap6.pdf&#34;&gt;Chapter 6&lt;/a&gt;
+&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jeffhonglab.github.io/uploads/reading_network_science/chap6.pdf&#34;&gt;Chapter 7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/DIV&gt;</description>
+    </item>
+    
+    <item>
       <title>Nothing here</title>
       <link>https://jeffhonglab.github.io/group_team_building/2021-barbecue/</link>
       <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
@@ -107,9 +134,9 @@ where $\mathbf{x}$ denotes the decision variables, $\omega$ denotes the randomne
     
     <item>
       <title>2020 Fall: Network Science</title>
-      <link>https://jeffhonglab.github.io/group_reading_group/2022-fall/</link>
+      <link>https://jeffhonglab.github.io/group_reading_group/2020-fall/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://jeffhonglab.github.io/group_reading_group/2022-fall/</guid>
+      <guid>https://jeffhonglab.github.io/group_reading_group/2020-fall/</guid>
       <description>&lt;!DIV align=&#34;justify&#34;&gt;
 &lt;p&gt;References:&lt;/p&gt;
 &lt;ul&gt;
