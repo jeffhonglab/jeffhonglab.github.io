@@ -5,12 +5,44 @@
     <link>https://jeffhonglab.github.io/publication/</link>
       <atom:link href="https://jeffhonglab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeffhonglab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://jeffhonglab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A new likelihood ratio method for training artificial neural networks</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_pengxiaojoc/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_pengxiaojoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding up Paulson&#39;s Procedure for large-scale problems using parallel computing</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_zhongluoliuhongjoc/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_zhongluoliuhongjoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Note: Knowledge gradient for selection with covariates: consistency and computation</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_zhangshenhongnrl/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_zhangshenhongnrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who is next: Patient prioritization under emergency department blocking</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_lisunhongor/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_lisunhongor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dimension reduction in contextual online learning via nonparametric variable selection</title>
@@ -57,6 +89,14 @@
       <link>https://jeffhonglab.github.io/publication/journal-article/2022_jiangnelsonhongiise/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/publication/journal-article/2022_jiangnelsonhongiise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust simulation with likelihood-ratio constrained input uncertainty</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_huhongjoc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_huhongjoc/</guid>
       <description></description>
     </item>
     

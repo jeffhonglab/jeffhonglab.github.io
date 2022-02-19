@@ -138,6 +138,38 @@ where $\mathbf{x}$ denotes the decision variables, $\omega$ denotes the randomne
     </item>
     
     <item>
+      <title>A new likelihood ratio method for training artificial neural networks</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_pengxiaojoc/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_pengxiaojoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding up Paulson&#39;s Procedure for large-scale problems using parallel computing</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_zhongluoliuhongjoc/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_zhongluoliuhongjoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Note: Knowledge gradient for selection with covariates: consistency and computation</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_zhangshenhongnrl/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_zhangshenhongnrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who is next: Patient prioritization under emergency department blocking</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_lisunhongor/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_lisunhongor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Talk - Option Pricing by Neural Stochastic Differential Equations: A Simulation Optimization Approach</title>
       <link>https://jeffhonglab.github.io/event/%E4%BC%98%E5%8C%96%E6%A6%82%E7%8E%87%E5%8F%8A%E4%BB%BF%E7%9C%9F%E5%9B%BD%E9%99%85%E7%A0%94%E8%AE%A8%E4%BC%9Awops-2021/2022/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
@@ -199,6 +231,14 @@ Further event details, including page elements such as image galleries, can be a
       <link>https://jeffhonglab.github.io/publication/journal-article/2022_jiangnelsonhongiise/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://jeffhonglab.github.io/publication/journal-article/2022_jiangnelsonhongiise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust simulation with likelihood-ratio constrained input uncertainty</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_huhongjoc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_huhongjoc/</guid>
       <description></description>
     </item>
     

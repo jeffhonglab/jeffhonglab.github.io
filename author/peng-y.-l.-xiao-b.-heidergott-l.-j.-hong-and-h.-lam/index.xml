@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peng, Y., L. Xiao, B. Heidergott, L. J. Hong, and H. Lam | Jeff Hong&#39;s Research Group</title>
+    <link>https://jeffhonglab.github.io/author/peng-y.-l.-xiao-b.-heidergott-l.-j.-hong-and-h.-lam/</link>
+      <atom:link href="https://jeffhonglab.github.io/author/peng-y.-l.-xiao-b.-heidergott-l.-j.-hong-and-h.-lam/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peng, Y., L. Xiao, B. Heidergott, L. J. Hong, and H. Lam</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jeffhonglab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Peng, Y., L. Xiao, B. Heidergott, L. J. Hong, and H. Lam</title>
+      <link>https://jeffhonglab.github.io/author/peng-y.-l.-xiao-b.-heidergott-l.-j.-hong-and-h.-lam/</link>
+    </image>
+    
+    <item>
+      <title>A new likelihood ratio method for training artificial neural networks</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_pengxiaojoc/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_pengxiaojoc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://jeffhonglab.github.io/author/hu-z.-and-l.-j.-hong/</link>
       <atom:link href="https://jeffhonglab.github.io/author/hu-z.-and-l.-j.-hong/index.xml" rel="self" type="application/rss+xml" />
     <description>Hu, Z. and L. J. Hong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeffhonglab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Hu, Z. and L. J. Hong</title>
       <link>https://jeffhonglab.github.io/author/hu-z.-and-l.-j.-hong/</link>
     </image>
+    
+    <item>
+      <title>Robust simulation with likelihood-ratio constrained input uncertainty</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_huhongjoc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_huhongjoc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robust simulation of stochastic systems with input uncertainties modeled by statistical divergences</title>
