@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monte Carlo Methods in Stochastic Programming | L. Jeff Hong&#39;s Research Group</title>
+    <link>https://jeffhonglab.github.io/tag/monte-carlo-methods-in-stochastic-programming/</link>
+      <atom:link href="https://jeffhonglab.github.io/tag/monte-carlo-methods-in-stochastic-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Monte Carlo Methods in Stochastic Programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jeffhonglab.github.io/media/icon_hu0348edb0a568a0a04116a2e52db42b4c_48322_512x512_fill_lanczos_center_2.png</url>
+      <title>Monte Carlo Methods in Stochastic Programming</title>
+      <link>https://jeffhonglab.github.io/tag/monte-carlo-methods-in-stochastic-programming/</link>
+    </image>
+    
+    <item>
+      <title>Robust simulation with likelihood-ratio constrained input uncertainty</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_huhongjoc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_huhongjoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-based robust optimization procedures and statistical guarantee</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2021_honghuanglamms/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2021_honghuanglamms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradient and Hessian of joint probability functions with applications on chance constrained programs</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2017_hongjiangjorsoc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2017_hongjiangjorsoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximating data-driven joint chance constrained programs via uncertainty set construction</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2016_honghuanglamwsc/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2016_honghuanglamwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A statistical perspective on linear programs with uncertain parameters</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2015_honglamwsc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2015_honglamwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust simulation of stochastic systems with input uncertainties modeled by statistical divergences</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2015_huhongwsc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2015_huhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional value-at-risk approximation to value-at-risk constrained programs: A remedy via Monte Carlo</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2014_honghuzhangjoc/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2014_honghuzhangjoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo methods for value-at-risk and conditional value-at-risk: A review</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2014_honghuliutomacs/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2014_honghuliutomacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A smooth Monte Carlo approximation to joint chance-constrained programs</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2013_huhongzhangiie/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2013_huhongzhangiie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ambiguous  Probabilistic  Programs</title>
+      <link>https://jeffhonglab.github.io/publication/reports/huhongso2013_technicalreport/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/reports/huhongso2013_technicalreport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kullback-Leibler divergence constrained distributionally robust optimization</title>
+      <link>https://jeffhonglab.github.io/publication/reports/huhong2013_technicalreport/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/reports/huhong2013_technicalreport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust simulation of global warming policies using the DICE model</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2012_hucaohongms/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2012_hucaohongms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential convex approximations to joint chance constrained programs: A Monte Carlo approach</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2011_hongyangzhangor/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2011_hongyangzhangor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust simulation of environmental policies</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2010_hucaohongwsc/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2010_hucaohongwsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

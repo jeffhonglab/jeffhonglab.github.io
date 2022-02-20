@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulation Optimization | L. Jeff Hong&#39;s Research Group</title>
+    <link>https://jeffhonglab.github.io/tag/simulation-optimization/</link>
+      <atom:link href="https://jeffhonglab.github.io/tag/simulation-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simulation Optimization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jeffhonglab.github.io/media/icon_hu0348edb0a568a0a04116a2e52db42b4c_48322_512x512_fill_lanczos_center_2.png</url>
+      <title>Simulation Optimization</title>
+      <link>https://jeffhonglab.github.io/tag/simulation-optimization/</link>
+    </image>
+    
+    <item>
+      <title>A new likelihood ratio method for training artificial neural networks</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_pengxiaojoc/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_pengxiaojoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian process based search for continuous optimization via simulation</title>
+      <link>https://jeffhonglab.github.io/publication/preprint/gpsc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/preprint/gpsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale inventory optimization: A recurrent-neural-networks-inspired simulation approach</title>
+      <link>https://jeffhonglab.github.io/publication/preprint/rnn/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/preprint/rnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Option Pricing By Neural Stochastic Differential Equations: A Simulation-optimization Approach</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2021_wanghongwsc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2021_wanghongwsc/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Surrogate-based simulation optimization</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2021_hongzhangtutorials/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2021_hongzhangtutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Artificial Neural Networks by Generalized Likelihood Ratio Method: An Effective Way to Improve Robustness</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2020_xiaopenghongcase/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2020_xiaopenghongcase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Mixture Model-based Random Search for Continuous Optimization via Simulation</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2018_sunhuhongwsc/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2018_sunhuhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing exploitation and exploration in discrete optimization via simulation through a Gaussian process-based search</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2014_sunhonghuor/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2014_sunhonghuor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An adaptive hyperbox algorithm for high-dimensional discrete optimization via simulation problems</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2013_xunelsonhongjoc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2013_xunelsonhongjoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic trust-region response-surface method (STRONG) – A new response surface framework for simulation optimization</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2013_changhongwanjoc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2013_changhongwanjoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization via simulation using Gaussian process-based search</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2011_sunhonghuwsc/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2011_sunhonghuwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industrial Strength COMPASS: A comprehensive algorithm and software for optimization via simulation</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2010_xunelsonhongtomacs/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2010_xunelsonhongtomacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding up COMPASS for high-dimensional discrete optimization via simulation</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2010_hongnelsonxuorl/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2010_hongnelsonxuorl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A brief introduction to optimization via simulation</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2009_hongnelsonwsc/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2009_hongnelsonwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A framework of locally convergent random search algorithms for discrete optimization via simulation</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2007_hongnelsontomacs/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2007_hongnelsontomacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic trust region gradient-free method: A new response-surface-based algorithm for simulation optimization</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2007_changhongwsc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2007_changhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A sequential procedure for neighborhood selection-of-the-best in optimization via simulation</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2006_pichnelsonhongejor/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2006_pichnelsonhongejor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete optimization via simulation using COMPASS</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2006_hongnelsonor/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2006_hongnelsonor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete optimization via simulation using coordinate search</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2005_hongwsc/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2005_hongwsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

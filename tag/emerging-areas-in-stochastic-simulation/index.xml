@@ -5,12 +5,20 @@
     <link>https://jeffhonglab.github.io/tag/emerging-areas-in-stochastic-simulation/</link>
       <atom:link href="https://jeffhonglab.github.io/tag/emerging-areas-in-stochastic-simulation/index.xml" rel="self" type="application/rss+xml" />
     <description>Emerging areas in stochastic simulation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Fri, 21 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jeffhonglab.github.io/media/icon_hu0348edb0a568a0a04116a2e52db42b4c_48322_512x512_fill_lanczos_center_2.png</url>
       <title>Emerging areas in stochastic simulation</title>
       <link>https://jeffhonglab.github.io/tag/emerging-areas-in-stochastic-simulation/</link>
     </image>
+    
+    <item>
+      <title>A new likelihood ratio method for training artificial neural networks</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_pengxiaojoc/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_pengxiaojoc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Talk - Option Pricing by Neural Stochastic Differential Equations: A Simulation Optimization Approach</title>
@@ -27,6 +35,198 @@
 Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
 &lt;/DIV&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Integrating Algorithmic Sampling-Based Motion Planning with Learning in Autonomous Driving</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_zhangzhangzhangwangluhongtist/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_zhangzhangzhangwangluhongtist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale inventory optimization: A recurrent-neural-networks-inspired simulation approach</title>
+      <link>https://jeffhonglab.github.io/publication/preprint/rnn/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/preprint/rnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust simulation with likelihood-ratio constrained input uncertainty</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_huhongjoc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_huhongjoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-based robust optimization procedures and statistical guarantee</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2021_honghuanglamms/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2021_honghuanglamms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Option Pricing By Neural Stochastic Differential Equations: A Simulation-optimization Approach</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2021_wanghongwsc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2021_wanghongwsc/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ranking and selection with covariates for personalized decision making</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2021_shenhongzhangijoc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2021_shenhongzhangijoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrogate-based simulation optimization</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2021_hongzhangtutorials/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2021_hongzhangtutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel learning framework for sampling-based motion planning in autonomous driving</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2020_zhangzhangzhangwangluhongaaai/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2020_zhangzhangzhangwangluhongaaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributionally robust selection of the best</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2020_fanhongzhangms/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2020_fanhongzhangms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online risk monitoring using offline simulation</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2020_jianghongnelsonjoc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2020_jianghongnelsonjoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Artificial Neural Networks by Generalized Likelihood Ratio Method: An Effective Way to Improve Robustness</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2020_xiaopenghongcase/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2020_xiaopenghongcase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating sensitivity to input model variance</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2019_jiangnelsonhongwsc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2019_jiangnelsonhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offline simulation online application: A new framework of simulation-based decision making</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2019_hongjiangapjor/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2019_hongjiangapjor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On gamma estimation via matrix kriging</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2019_yunhongjiangwangnrl/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2019_yunhongjiangwangnrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simulation-based estimation method for bias reduction</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2018_fanghongiise/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2018_fanghongiise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing stochastic kriging for queueing simulation with stylized models</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2018_shenhongzhangiise/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2018_shenhongzhangiise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and selection with covariates</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2017_shenhongzhangwsc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2017_shenhongzhangwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simulation analytics approach to dynamic risk monitoring</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2016_jianghongnelsonwsc/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2016_jianghongnelsonwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximating data-driven joint chance constrained programs via uncertainty set construction</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2016_honghuanglamwsc/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2016_honghuanglamwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Input uncertainty and indifference-zone ranking and selection</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2015_songnelsonhongwsc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2015_songnelsonhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust simulation of stochastic systems with input uncertainties modeled by statistical divergences</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2015_huhongwsc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2015_huhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking estimation and performance evaluation through simulation</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2013_fanghongwsc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2013_fanghongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust selection of the best</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2013_fanhongzhangwsc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2013_fanhongzhangwsc/</guid>
+      <description></description>
     </item>
     
   </channel>

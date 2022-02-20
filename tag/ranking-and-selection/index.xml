@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ranking and Selection | L. Jeff Hong&#39;s Research Group</title>
+    <link>https://jeffhonglab.github.io/tag/ranking-and-selection/</link>
+      <atom:link href="https://jeffhonglab.github.io/tag/ranking-and-selection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ranking and Selection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Jeff Hong</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jeffhonglab.github.io/media/icon_hu0348edb0a568a0a04116a2e52db42b4c_48322_512x512_fill_lanczos_center_2.png</url>
+      <title>Ranking and Selection</title>
+      <link>https://jeffhonglab.github.io/tag/ranking-and-selection/</link>
+    </image>
+    
+    <item>
+      <title>Speeding up Paulson&#39;s Procedure for large-scale problems using parallel computing</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_zhongluoliuhongjoc/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_zhongluoliuhongjoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Note: Knowledge gradient for selection with covariates: consistency and computation</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_zhangshenhongnrl/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_zhangshenhongnrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knockout-tournament procedures for large-scale ranking and selection in parallel computing environments</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2022_zhonghongor/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2022_zhonghongor/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1k54y1q7S9?from=search&amp;amp;seid=17841236032621501600&amp;amp;spm_id_from=333.337.0.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chinese Talk on Bilibili&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solving large-scale fixed-budget ranking and selection problems</title>
+      <link>https://jeffhonglab.github.io/publication/preprint/fbkt/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/preprint/fbkt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and selection with covariates for personalized decision making</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2021_shenhongzhangijoc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2021_shenhongzhangijoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review on ranking and selection: A new perspective</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2021_hongfanluofem/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2021_hongfanluofem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully sequential ranking-and-selection procedures with PAC guarantee</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2018_zhonghongwsc/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2018_zhonghongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new framework of designing sequential ranking-and-selection procedures</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2017_zhonghongwsc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2017_zhonghongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking and selection with covariates</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2017_shenhongzhangwsc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2017_shenhongzhangwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indifference-zone-free selection of the best</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2016_fanhongnelsonor/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2016_fanhongnelsonor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding up pairwise comparisons for large scale ranking and selection</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2016_hongluozhongwsc/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2016_hongluozhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chance constrained selection of the best</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2015_hongluonelsonjoc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2015_hongluonelsonjoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully sequential procedures for large-scale ranking-and-selection problems in parallel computing environments</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2015_luohongnelsonwuor/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2015_luohongnelsonwuor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Input uncertainty and indifference-zone ranking and selection</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2015_songnelsonhongwsc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2015_songnelsonhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A frequentist selection-of-the-best procedure without indifference zone</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2014_fanhongwsc/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2014_fanhongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust selection of the best</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2013_fanhongzhangwsc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2013_fanhongzhangwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale ranking and selection using cloud computing</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2011_luohongwsc/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2011_luohongwsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selecting the best system when systems are revealed sequentially</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2007_hongnelsoniie/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2007_hongnelsoniie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A sequential procedure for neighborhood selection-of-the-best in optimization via simulation</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2006_pichnelsonhongejor/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2006_pichnelsonhongejor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully sequential indifference-zone selection procedures with variance dependent sampling</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2006_hongnrl/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2006_hongnrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The tradeoff between sampling and switching: New sequential procedures for indifference-zone selection</title>
+      <link>https://jeffhonglab.github.io/publication/journal-article/2005_hongnelsoniie/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/journal-article/2005_hongnelsoniie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Indifference-zone Selection Procedure With Minimum Switching and Sequential Sampling</title>
+      <link>https://jeffhonglab.github.io/publication/conference-papers/2003_hongnelsonwsc/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://jeffhonglab.github.io/publication/conference-papers/2003_hongnelsonwsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
