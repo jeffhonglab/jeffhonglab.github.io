@@ -29,21 +29,5 @@ Further event details, including page elements such as image galleries, can be a
 </description>
     </item>
     
-    <item>
-      <title>Option Pricing By Neural Stochastic Differential Equations: A Simulation-optimization Approach</title>
-      <link>https://jeffhonglab.github.io/publication/conference-papers/2021_wanghongwsc/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://jeffhonglab.github.io/publication/conference-papers/2021_wanghongwsc/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
